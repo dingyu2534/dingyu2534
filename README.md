@@ -1,5 +1,5 @@
 ### Hello World 👋
-![](https://images.pexels.com/photos/5994821/pexels-photo-5994821.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500 "me")
+![](https://cdn.pixabay.com/photo/2020/10/14/19/49/santorini-5655299_1280.jpg "me")
 
 <!--
 **dingyu2534/dingyu2534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
